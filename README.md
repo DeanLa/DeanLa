@@ -1,4 +1,4 @@
-### Hi there 👋
+![audience](https://user-images.githubusercontent.com/7852981/87240339-5e1ac900-c421-11ea-8743-e722f9b6f69e.jpg)
 
 <!--
 **DeanLa/DeanLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

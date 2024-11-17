@@ -1,4 +1,5 @@
-![audience](https://user-images.githubusercontent.com/7852981/87240339-5e1ac900-c421-11ea-8743-e722f9b6f69e.jpg)
+![cover-3-things-crop](https://github.com/user-attachments/assets/f427790f-f96d-475b-9301-db02e7e2bcce)
+
 
 <!--
 **DeanLa/DeanLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
